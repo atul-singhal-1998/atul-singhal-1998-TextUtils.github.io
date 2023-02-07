@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/atul-singhal-1998-TextUtils.github.io/static/css/main.e6c13ad2.css",
+    "main.js": "/atul-singhal-1998-TextUtils.github.io/static/js/main.1edc28cf.js",
+    "static/js/787.28cb0dcd.chunk.js": "/atul-singhal-1998-TextUtils.github.io/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/atul-singhal-1998-TextUtils.github.io/index.html",
+    "main.e6c13ad2.css.map": "/atul-singhal-1998-TextUtils.github.io/static/css/main.e6c13ad2.css.map",
+    "main.1edc28cf.js.map": "/atul-singhal-1998-TextUtils.github.io/static/js/main.1edc28cf.js.map",
+    "787.28cb0dcd.chunk.js.map": "/atul-singhal-1998-TextUtils.github.io/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.1edc28cf.js"
+  ]
+}
